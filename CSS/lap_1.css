@@ -1,0 +1,24 @@
+#home {
+    height: 463px;
+}
+#home::before {
+    height: 85%;
+}
+#home h1 {
+    padding: 20px 5px;
+}
+#h-primary {
+    font-size: 2.3rem;
+    color: white;
+    font-family: 'Bree Serif', serif;
+}
+#home p {
+    font-size: 1.6rem;
+}
+.btn {
+    padding: 14px 5px;
+    font-size: 1.3rem;
+}
+#services{
+    flex-direction: column;
+}
